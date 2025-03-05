@@ -78,7 +78,7 @@ Here are the projects I've completed during this course:
    - A responsive personal portfolio website
    - Technologies: HTML, CSS, JavaScript
    - Features: Responsive design, project showcase, contact form
-   - [Live Demo](#) | [Source Code](#)
+   - [Live Demo](https://umitlekesiz11.github.io/portfolio-new-project/) | [Source Code](https://github.com/umitlekesiz11/portfolio-new-project)
 
 (Add more projects as you complete them)
 
@@ -93,4 +93,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 - Email: Umit.Lekesiz@my-aolcc.com
-- GitHub: [@yourusername](https://github.com/umitlekesiz11) 
+- GitHub: [@umitlekesiz11](https://github.com/umitlekesiz11) 
