@@ -39,7 +39,7 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-new-project.git
+   git clone https://github.com/umitlekesiz11/portfolio-new-project.git
    ```
 
 2. Navigate to the project directory:
@@ -58,7 +58,7 @@ This website can be deployed using GitHub Pages:
 3. Select the main branch as the source
 4. Save the changes
 
-The site will be available at `https://yourusername.github.io/portfolio-new-project`
+The site will be available at `https://github.com/umitlekesiz11/portfolio-new-project`
 
 ## Customization
 
